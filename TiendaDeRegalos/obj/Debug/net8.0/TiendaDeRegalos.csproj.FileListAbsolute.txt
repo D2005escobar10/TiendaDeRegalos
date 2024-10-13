@@ -1,0 +1,14 @@
+C:\Users\dresc\source\repos\TiendaDeRegalos\bin\Debug\net8.0\TiendaDeRegalos.exe
+C:\Users\dresc\source\repos\TiendaDeRegalos\bin\Debug\net8.0\TiendaDeRegalos.deps.json
+C:\Users\dresc\source\repos\TiendaDeRegalos\bin\Debug\net8.0\TiendaDeRegalos.runtimeconfig.json
+C:\Users\dresc\source\repos\TiendaDeRegalos\bin\Debug\net8.0\TiendaDeRegalos.dll
+C:\Users\dresc\source\repos\TiendaDeRegalos\bin\Debug\net8.0\TiendaDeRegalos.pdb
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\TiendaDeRegalos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\TiendaDeRegalos.AssemblyInfoInputs.cache
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\TiendaDeRegalos.AssemblyInfo.cs
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\TiendaDeRegalos.csproj.CoreCompileInputs.cache
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\TiendaDeRegalos.dll
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\refint\TiendaDeRegalos.dll
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\TiendaDeRegalos.pdb
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\TiendaDeRegalos.genruntimeconfig.cache
+C:\Users\dresc\source\repos\TiendaDeRegalos\obj\Debug\net8.0\ref\TiendaDeRegalos.dll
